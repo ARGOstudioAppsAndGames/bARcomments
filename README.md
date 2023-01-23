@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/ARGOstudioAppsAndGames/bARcomments](https://my-json-server.typicode.com/ARGOstudioAppsAndGames/bARcomments)
+[https://my-json-server.typicode.com/argostudioappsandgames/barcomments](https://my-json-server.typicode.com/argostudioappsandgames/barcomments)
 
 ## Use your own data
 
