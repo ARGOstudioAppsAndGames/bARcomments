@@ -1,4 +1,7 @@
 {
   "comments":
-    { "name": "comment" }
+    { 
+      "newname": "name",
+      "newcomment": "comment"
+    }
 }
